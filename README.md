@@ -15,7 +15,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-6A3093?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dularapanditharathna)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dularapanditharathna)
 [![Email](https://img.shields.io/badge/EMAIL-C2185B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadundulara20@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dularapanditharathna)
 
